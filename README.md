@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Vanilla-1s-280px.gif" height="200">
+  <img src="Vanilla-1s-280px.gif" width="500" height="250">
 </p>
 
 ### I'm Ayush - aka [AV][website] <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
