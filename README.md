@@ -30,7 +30,7 @@
 
 - ✍️ &nbsp; Pursuing Artificial Intelligence as hobbies/side hustles.
 
-### Spotify Playing 🎧
+### Spotify Playing 🎧<br>
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/user)
 
@@ -44,9 +44,7 @@
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-09&langs_count=10&theme=tokyonight&layout=compact" alt="ayush-09 :: Top Langs" /></p>
 
 <h3 align="left">Tools 🛠️</h3>
-<br>
-
-<img align="left" src="https://avatars0.githubusercontent.com/u/15658638?v=3&s=26">
+<img align="left" src="https://avatars0.githubusercontent.com/u/15658638?v=4&s=26">
 <img align="left" src="http://i.imgur.com/L45Q8c2.jpg" width="26">
 <img align="left" src="https://raw.githubusercontent.com/donnemartin/data-science-ipython-notebooks/master/images/scikitlearn.png" width="28">
 <img align="left" src="https://raw.githubusercontent.com/donnemartin/data-science-ipython-notebooks/master/images/scipy.png" width="28" height="18">
@@ -68,7 +66,7 @@
 <br>
 
 <h2 align="center">Profile stats :musical_keyboard:</h2>
-
+<br>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ayush-09&show_icons=true&theme=synthwave" alt="ayush-09 :: Profile Stats" /></p>
 
 ### 🤝🏻 Connect with me:
