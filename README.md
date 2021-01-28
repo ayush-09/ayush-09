@@ -42,7 +42,13 @@
 
 <h3 align="left">Tools 🛠️</h3>
 
-
+<img align="left" src="https://avatars0.githubusercontent.com/u/15658638?v=3&s=26">
+<img align="left" src="http://i.imgur.com/L45Q8c2.jpg" width="26">
+<img align="left" src="https://raw.githubusercontent.com/donnemartin/data-science-ipython-notebooks/master/images/scikitlearn.png" width="28">
+<img align="left" src="https://raw.githubusercontent.com/donnemartin/data-science-ipython-notebooks/master/images/scipy.png" width="28" height="18">
+<img align="left" src="https://raw.githubusercontent.com/donnemartin/data-science-ipython-notebooks/master/images/pandas.png" width="50" height="15">
+<img align="left" src="https://raw.githubusercontent.com/donnemartin/data-science-ipython-notebooks/master/images/matplotlib.png" width="50" height="15">
+<img align="left" src="https://raw.githubusercontent.com/donnemartin/data-science-ipython-notebooks/master/images/aws.png" width="50" height="18">
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
