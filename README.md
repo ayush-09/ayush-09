@@ -35,10 +35,10 @@
 ### Languages and Tools:
 
 
+<img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
 <h3 align="left">Top langs :tongue:</h3>
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-09&langs_count=10&theme=tokyonight&layout=compact" alt="ayush-09 :: Top Langs" /></p>
-<img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
 
 <h3 align="left">Tools 🛠️</h3>
 
@@ -57,7 +57,7 @@
 <br>
 <br>
 
-<h3 align="center">Profile stats :musical_keyboard:</h4>
+<h2 align="center">Profile stats :musical_keyboard:</h2>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ayush-09&show_icons=true&theme=synthwave" alt="ayush-09 :: Profile Stats" /></p>
 
