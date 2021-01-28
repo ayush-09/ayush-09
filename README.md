@@ -1,5 +1,7 @@
-
-### Hi there, I'm Ayush - aka [AV][website] 👋
+<p align="center">
+  <img src="https://github.com/chandrikadeb7/chandrikadeb7/blob/master/readme.gif">
+</p>
+### I'm Ayush - aka [AV][website] <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 [![Website](https://img.shields.io/website?label=AV.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](http://ayush-09.github.io/)
 
