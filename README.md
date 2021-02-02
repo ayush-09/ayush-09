@@ -79,7 +79,7 @@
 ## 🤝🏻 Connect with me:
 <br>
 
-<a href="http://www.ayushav.tech/"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-Portfolio-0D1117?style=for-the-badge&logo=koding&logoColor=white"/></a>
+<a href="http://www.ayushav.tech/" target="_blank"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-Portfolio-0D1117?style=for-the-badge&logo=koding&logoColor=white"/></a>
 [<img align="left" alt="AV | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="AV | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br />
