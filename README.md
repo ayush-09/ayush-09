@@ -4,7 +4,7 @@
 
 ### I'm Ayush - aka [AV][website] <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-[![Website](https://img.shields.io/website?label=AV.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](http://ayush-09.github.io/) <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/>
+[![Website](https://img.shields.io/website?label=AV.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](http://ayushav.tech/) <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/>
 
 <a href="mailto:ayushvarshney43@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ayushvarshney43@gmail.com-blue?style=flat&logo=gmail"></a><br><img src="https://komarev.com/ghpvc/?username=ayush-09" alt="AV" /> <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
 ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=ayush-09.ayush-09) <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
