@@ -22,7 +22,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 
-- 👯 I’m looking to collaborate with Kagglers
+- 👯 I’m looking to collaborate with Kagglers. My profile: https://www.kaggle.com/ayushvarshnay
 
 - 🥅 2021 Goals: Contribute more to Competitive Programming 
 
