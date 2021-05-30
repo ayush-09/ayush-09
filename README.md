@@ -11,7 +11,7 @@
 
 <h3> 👨🏻•💻 About Me </h3>
 
-## I'm a Student, Developer!! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="55px">
+## I'm a AI/ML/DL Engineer, Python Developer!! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="55px">
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
