@@ -18,7 +18,7 @@
 
 - 🎓 &nbsp; Studying Computer Science and Engineering with specialization in IoT at GLA University
 
-- 🔭 I just launched my first basic app: [Pizza Delivery App!][course]!
+- 🔭 I just launched my first basic app: [Pizza Delivery App!][course]! & [Image Claassifier!][webapp]!
 
 - 🌱 I’m currently learning everything 🤣
 
@@ -86,6 +86,7 @@
 
 [website]: http://www.ayushav.tech/
 [course]: https://ayushav-app01.herokuapp.com/
+[webapp]: http://ayush09.pythonanywhere.com/
 [instagram]: https://www.instagram.com/ayush_v9/
 [linkedin]: https://www.linkedin.com/in/ayush-varshney-495422185/
 <br>
