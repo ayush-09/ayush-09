@@ -84,7 +84,7 @@
 [<img align="left" alt="AV | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br />
 
-[website]: http://www.ayushav.tech/
+[website]: https://ayushav.netlify.app
 [course]: https://ayushav-app01.herokuapp.com/
 [webapp]: http://ayush09.pythonanywhere.com/
 [instagram]: https://www.instagram.com/ayush_v9/
