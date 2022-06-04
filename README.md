@@ -2,7 +2,7 @@
   <img src="Vanilla-1s-280px.gif" width="400" height="180">
 </p>
 
-### I'm Ayush - aka [AV][website] <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+### I'm Ayush - aka [AV][website]
 
 [![Website](https://img.shields.io/website?label=AV.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.ayushav.tech/) <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/>
 
