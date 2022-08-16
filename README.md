@@ -30,7 +30,7 @@
 
 - ✍️ &nbsp; Pursuing Artificial Intelligence as hobbies/side hustles.
 
-- 🌐 You can see some of my projects on [my portfolio](http://www.ayushav.tech/)
+- 🌐 You can see some of my projects on [my portfolio](https://ayushav.netlify.app/)
 <br>
 
 
