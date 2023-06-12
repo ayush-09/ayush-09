@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="Vanilla-1s-280px.gif" width="400" height="180">
-</p>
+# <div align="center">Welcome to My GitHub Profile! 👋</div>
 
 ### I'm Ayush - aka [AV][website]
 
