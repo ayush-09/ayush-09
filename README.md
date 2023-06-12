@@ -16,7 +16,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 
-- 🎓 &nbsp; Studying Computer Science and Engineering with specialization in IoT at GLA University
+- 🎓 &nbsp; Grad'22 Computer Science and Engineering with specialization in IoT at GLA University
 
 - 🔭 I just launched my first basic app: [Pizza Delivery App!][course]! & [Image Claassifier!][webapp]!
 
@@ -24,7 +24,7 @@
 
 - 👯 I’m looking to collaborate with Kagglers. My profile: https://www.kaggle.com/ayushvarshnay
 
-- 🥅 2021 Goals: Contribute more to Competitive Programming 
+- 🥅 2023 Goals: Contribute more to Open Source.
 
 - ⚡ Fun fact: I love to play computer games
 
