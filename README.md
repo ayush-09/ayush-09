@@ -32,6 +32,36 @@
 - ⚡ Fun fact: I love to play computer games
 - ✍️ Pursuing Artificial Intelligence as hobbies/side hustles
 - 🌐 You can see some of my projects on [my portfolio](https://ayushav.netlify.app/)
+<br/>
+
+## ⚡Experience
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <b>🌟 Open Source Contributor</b><br>
+      <a href="https://gssoc.girlscript.tech/">GSSoC</a><br>
+      GirlScript Summer of Code<br>
+      May 2023 - Aug 2023<br>
+      Remote
+    </td>
+    <td align="center">
+      <b>🌟 Data Science and Engineer Intern</b><br>
+      <a href="https://hamoye.com/">HDSC Fellow</a><br>
+      Hamoye<br>
+      Jan 2022 - Apr 2022<br>
+      Mathura, UP
+    </td>
+    <td align="center">
+      <b>🌟 Artificial Intelligence Intern</b><br>
+      <a href="https://drive.google.com/file/d/1wN4ht-WPyfBsuAUeBSsdJ8x6l8yK5bpb/view">PoW</a><br>
+      Verzeo <br>
+      Jun 2020 - Aug 2020<br>
+      Bengaluru
+    </td>
+  </tr>
+</table>
+
 
 <br/>
 
@@ -43,9 +73,9 @@
 <a href="https://www.kaggle.com/ayushvarshnay"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=oval-square&logo=kaggle&logoColor=white" /></a>
 <a href="https://hyperskill.org/profile/3804826"><img src="https://img.shields.io/badge/Hyperskill-000000?style=oval-square&logo=hyperskill&logoColor=white" /></a>
 <a href = "https://www.cloudskillsboost.google/public_profiles/ba0a81fc-688b-46a2-89b8-895a201e7605"><img src = "https://img.shields.io/badge/Google_Cloud-4285F4?style=oval-square&logo=google-cloud&logoColor=white"/></a>
-</p><br>
+</p><br/>
 
-### 🚀 Languages and Tools:
+## 🚀 Languages and Tools:
 
 <p align="left">
     <code><a href="https://www.python.org/"> <img src="https://img.icons8.com/color/50/000000/python--v1.png"/> </a></code>
@@ -74,13 +104,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-09&langs_count=10&theme=tokyonight&layout=compact" alt="ayush-09 :: Top Langs" />
   
 </p>
+<br/>
 
 ## 🙋‍♂️ My Contribution Streak
 
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayush-09&theme=highcontrast" alt="ayush-09" />
 </p>
-
+<br/>
 
 ## 🤝🏻 Connect with Me
 
@@ -91,7 +122,7 @@
   <a href="https://twitter.com/AyushVa31711676"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-0D1117?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://discordapp.com/users/594604168413708297"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-0D1117?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
-<p align="center"> <img src = "https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,10&height=2.5"/></p><br>
+<p align="center"> <img src = "https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,10&height=2.5"/></p>
 <br />
 
 ## 🏆 GitHub Profile Trophies
@@ -99,7 +130,6 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ayush-09" alt="trophy" />
 </div>
-
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 
