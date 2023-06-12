@@ -40,9 +40,8 @@
 <a href = "https://www.hackerrank.com/_181540008?hr_r=1"><img src = "https://img.shields.io/badge/-Hackerrank-2EC866?style=oval-square&logo=HackerRank&logoColor=white"/></a>
 <a href = "https://leetcode.com/ayush-09/"><img src = "https://img.shields.io/badge/-LeetCode-FFA116?style=oval-square&logo=LeetCode&logoColor=white"/></a>
 <a href = "https://auth.geeksforgeeks.org/user/ayushvarshney43"><img src = "https://img.shields.io/badge/GeeksforGeeks-298D46?style=oval-square&logo=geeksforgeeks&logoColor=white"/></a>
-<a href="https://www.codingninjas.com/profile/Ayush09"><img src="https://img.shields.io/badge/Coding%20Ninjas-1F4F7C?style=oval-square&logo=codingninjas&logoColor=white" /></a>
-<a href="https://www.kaggle.com/ayush09"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=oval-square&logo=kaggle&logoColor=white" /></a>
-<a href="https://hyperskill.org/profile/14569373"><img src="https://img.shields.io/badge/Hyperskill-000000?style=oval-square&logo=hyperskill&logoColor=white" /></a>
+<a href="https://www.kaggle.com/ayushvarshnay"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=oval-square&logo=kaggle&logoColor=white" /></a>
+<a href="https://hyperskill.org/profile/3804826"><img src="https://img.shields.io/badge/Hyperskill-000000?style=oval-square&logo=hyperskill&logoColor=white" /></a>
 <a href = "https://www.cloudskillsboost.google/public_profiles/ba0a81fc-688b-46a2-89b8-895a201e7605"><img src = "https://img.shields.io/badge/Google_Cloud-4285F4?style=oval-square&logo=google-cloud&logoColor=white"/></a>
 </p><br>
 
