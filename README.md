@@ -42,26 +42,6 @@
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-09&langs_count=10&theme=tokyonight&layout=compact" alt="ayush-09 :: Top Langs" /></p>
 
-<h3 align="left">Tools 🛠️</h3>
-<img align="left" src="https://avatars0.githubusercontent.com/u/15658638?v=4&s=26">
-<img align="left" src="http://i.imgur.com/L45Q8c2.jpg" width="26">
-<img align="left" src="https://raw.githubusercontent.com/donnemartin/data-science-ipython-notebooks/master/images/scikitlearn.png" width="28">
-<img align="left" src="https://raw.githubusercontent.com/donnemartin/data-science-ipython-notebooks/master/images/scipy.png" width="28" height="18">
-<img align="left" src="https://raw.githubusercontent.com/donnemartin/data-science-ipython-notebooks/master/images/pandas.png" width="50" height="15">
-<img align="left" src="https://raw.githubusercontent.com/donnemartin/data-science-ipython-notebooks/master/images/matplotlib.png" width="50" height="15">
-<img align="left" src="https://raw.githubusercontent.com/donnemartin/data-science-ipython-notebooks/master/images/aws.png" width="50" height="18">
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<br>
 <br>
 <br />
 <h2 align="center">Profile stats :musical_keyboard:</h2>
