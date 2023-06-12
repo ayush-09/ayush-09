@@ -88,7 +88,7 @@
   <a href="https://ayushav.netlify.app"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-Portfolio-0D1117?style=for-the-badge&logo=koding&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/ayush-varshney-495422185/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.instagram.com/ayush_v9/"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://twitter.com/ayush_varshnay"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-0D1117?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://twitter.com/AyushVa31711676"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-0D1117?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://discordapp.com/users/594604168413708297"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-0D1117?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
 <p align="center"> <img src = "https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,10&height=2.5"/></p><br>
