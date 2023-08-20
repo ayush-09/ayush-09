@@ -96,6 +96,13 @@
     <code><a href="https://www.anaconda.com/"> <img src="https://www.anaconda.com/wp-content/uploads/2022/12/anaconda_secondary_logo.svg" alt="Anaconda" width="40"height="40"/> </a></code>
 </p><br>
 
+<p align="center">
+  <a href="https://quine.sh?utm_source=widgets&utm_campaign=ayush-09">
+    <img src="https://stats.quine.sh/ayush-09/dependencies?theme=dark" alt="ayush-09's GitHub Dependencies" />
+  </a>
+</p>
+
+
 
 <h2 align="center">Profile Stats 🎹</h2>
 
@@ -112,6 +119,7 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayush-09&theme=highcontrast" alt="ayush-09" />
 </p>
 <br/>
+
 
 ## 🤝🏻 Connect with Me
 
