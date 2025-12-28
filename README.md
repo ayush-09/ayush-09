@@ -13,13 +13,13 @@
   <br>
   <img src="https://komarev.com/ghpvc/?username=ayush-09&color=00F2EA" alt="Profile Views"/>
   <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
-  <img src="assets/ai_engineer.png" width="30">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z5ODJ6Z3B6Z3Z5ODJ6Z3B6Z3Z5ODJ6Z3B6Z3Z5ODJ6Z3B6zy9kQ2d2Z3B6Z3Z5ODJ6Z3B6Z3Z5ODJ6Z3B6Z3Z5ODJ6Z3B6Z3Z5ODJ6/Queb1Z2bNq4cE/giphy.gif" alt="AI Agent" width="30">
 </p>
 
 ## 💫 About Me
 
 <picture>
-  <img align="right" src="assets/ai_engineer.png" width="230">
+  <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z5ODJ6Z3B6Z3Z5ODJ6Z3B6Z3Z5ODJ6Z3B6Z3Z5ODJ6Z3B6zy9kQ2d2Z3B6Z3Z5ODJ6Z3B6Z3Z5ODJ6Z3B6Z3Z5ODJ6Z3B6Z3Z5ODJ6/Queb1Z2bNq4cE/giphy.gif" width="230">
 </picture>
 
 - 🎓 Grad'22 Computer Science & Engineering (**IoT**) at `GLA University`.
