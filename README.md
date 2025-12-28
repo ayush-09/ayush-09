@@ -32,6 +32,9 @@
 
 <br/>
 
+
+## Professional Experience
+
 <table align="center">
   <tr>
     <td align="center">
@@ -57,7 +60,7 @@
 
 <br/>
 
-### Internships & Open Source
+## Internships & Open Source
 
 <table align="center">
   <tr>
@@ -134,7 +137,7 @@
 </p>
 <br>
 
-<h2 align="center">Profile Stats 🎹</h2>
+## 🎹 Profile Stats 
 
 <p align="center">
 <a href="https://github.com/ayush-09">
