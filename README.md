@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Welcome to My GitHub Profile! 👋</h1>
-  <h2>I'm Ayush Varshney - aka <a href="https://ayushav.netlify.app">AV</a></h2>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F2EA&center=true&vCenter=true&width=500&lines=Data+Scientist+%26+AI+Engineer;Generative+AI+%7C+NLP+%7C+Computer+Vision;Building+Scalable+AI+Solutions;Open+Source+Leader" alt="Typing SVG" /></a>
 </div>
 
 <p align="center">
@@ -9,11 +9,10 @@
 </p>
 
 <p align="center">
-  <a href="mailto:ayushvarshney43@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ayushvarshney43@gmail.com-blue?style=flat&logo=gmail"></a>
+  <a href="mailto:ayushvarshney43@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ayushvarshney43@gmail.com-blue?style=for-the-badge&logo=gmail"></a>
   <br>
-  <img src="https://komarev.com/ghpvc/?username=ayush-09" alt="AV"/>
+  <img src="https://komarev.com/ghpvc/?username=ayush-09&color=00F2EA" alt="Profile Views"/>
   <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
-<!--   ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=ayush-09.ayush-09) -->
   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
 </p>
 
@@ -23,20 +22,49 @@
   <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 </picture>
 
-- 🎓 Grad'22 Computer Science and Engineering with specialization in **IoT** at `GLA University`.
-- 🙂 Open Source Contributor at [`GSSoC'23`](https://gssoc.girlscript.tech/).
-- 🔭 Python Developer
+- 🎓 Grad'22 Computer Science & Engineering (**IoT**) at `GLA University`.
+- 🏆 **Community Leader**: Top Performer at GSSoC'23.
+- 🔭 **Expertise**: GenAI, Agentic AI, RAG, Voice AI, Predictive Analytics.
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with Kagglers. My profile: [Kaggle Profile](https://www.kaggle.com/ayushvarshnay)
-- 🥅 2023 Goals: Contribute more to Open Source
-- ⚡ Fun fact: I love to play computer games
-- ✍️ Pursuing Artificial Intelligence as hobbies/side hustles
-- 🌐 You can see some of my projects on [my portfolio](https://ayushav.netlify.app/)
+- 👯 I’m looking to collaborate with Kagglers. [Kaggle Profile](https://www.kaggle.com/ayushvarshnay)
+- ⚡ Fun fact: I love to play computer games.
+- 🌐 [My Portfolio](https://ayushav.netlify.app/)
+
 <br/>
 
-## ⚡Experience
+<table align="center">
+  <tr>
+    <td align="center">
+      <b>🚀 AI Engineer</b><br>
+      ContractPod AI<br>
+      Nov 2025 - Present<br>
+      Remote
+    </td>
+    <td align="center">
+      <b>📊 Data Scientist</b><br>
+      SoftSensor.AI<br>
+      Aug 2023 - Nov 2025<br>
+      Bengaluru
+    </td>
+    <td align="center">
+      <b>💻 Junior AI Developer</b><br>
+      Novelti Solutions<br>
+      Feb 2023 - Aug 2023<br>
+      Bengaluru
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+### Internships & Open Source
 
 <table align="center">
+  <tr>
+     <th align="center">Role</th>
+     <th align="center">Company & Duration</th>
+     <th align="center">Location</th>
+  </tr>
   <tr>
     <td align="center">
       <b>🌟 Open Source Contributor</b><br>
@@ -75,26 +103,36 @@
 <a href = "https://www.cloudskillsboost.google/public_profiles/ba0a81fc-688b-46a2-89b8-895a201e7605"><img src = "https://img.shields.io/badge/Google_Cloud-4285F4?style=oval-square&logo=google-cloud&logoColor=white"/></a>
 </p><br/>
 
-## 🚀 Languages and Tools:
+## 🚀 Languages and Tools
 
-<p align="left">
-    <code><a href="https://www.python.org/"> <img src="https://img.icons8.com/color/50/000000/python--v1.png"/> </a></code>
-    <code><a href="https://www.java.com/"> <img src="https://img.icons8.com/color/50/000000/java-coffee-cup-logo--v1.png"/> </a></code>
-    <code><a href="https://www.tensorflow.org/"> <img src="https://img.icons8.com/color/50/000000/tensorflow.png"/> </a></code>
-    <code><a href="https://scikit-learn.org/"> <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png"/> </a></code>
-    <code><a href="https://numpy.org/"> <img src="https://img.icons8.com/color/50/000000/numpy.png"/> </a></code>
-    <code><a href="https://pandas.pydata.org/"> <img src="https://img.icons8.com/color/50/000000/pandas.png"/> </a></code>
-    <code><a href="https://matplotlib.org/"> <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_001.png"/> </a></code>
-    <code><a href="https://www.djangoproject.com/"> <img src="https://img.icons8.com/color/50/000000/django.png"/> </a></code>
-    <code><a href="https://azure.microsoft.com/"> <img src="https://img.icons8.com/color/50/000000/azure-1.png"/> </a></code>
-    <code><a href="https://aws.amazon.com/"> <img src="https://img.icons8.com/color/50/000000/amazon-web-services.png"/> </a></code>
-    <code><a href="https://cloud.google.com/"> <img src="https://img.icons8.com/color/50/000000/google-cloud-platform.png"/> </a></code>
-    <code><a href="https://www.mysql.com/"> <img src="https://img.icons8.com/color/50/000000/mysql-logo.png"/> </a></code>
-    <code><a href = "https://git-scm.com/"> <img src = "https://img.icons8.com/color/50/000000/git.png"/> </a></code>
-    <code><a href="https://www.kaggle.com/"> <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="Kaggle" width="40" height="40"/> </a></code>
-    <code><a href="https://code.visualstudio.com/"> <img src="https://img.icons8.com/color/50/000000/visual-studio-code-2019.png" alt="Visual Studio Code" width="40" height="40"/> </a></code>
-    <code><a href="https://www.anaconda.com/"> <img src="https://www.anaconda.com/wp-content/uploads/2022/12/anaconda_secondary_logo.svg" alt="Anaconda" width="40"height="40"/> </a></code>
-</p><br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+    <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+    <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  </a>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Llama_Index-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+</p>
+<br>
 
 <p align="center">
   <a href="https://quine.sh?utm_source=widgets&utm_campaign=ayush-09">
@@ -118,8 +156,47 @@
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayush-09&theme=highcontrast" alt="ayush-09" />
 </p>
+<p align="center">
+  <img src="https://github.com/ayush-09/ayush-09/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
 <br/>
 
+
+## 🏆 Community Leadership
+
+<table align="center">
+  <tr>
+     <th align="center">Organization</th>
+     <th align="center">Role & Impact</th>
+  </tr>
+  <tr>
+     <td align="center"><b>GirlScript Summer of Code '23</b></td>
+     <td align="center">🏆 <b>Top Performer</b>: Merged 30+ PRs, mentored contributors, led 4 assignments.</td>
+  </tr>
+  <tr>
+     <td align="center"><b>Major League Hacking (MLH)</b></td>
+     <td align="center">🚀 <b>Active Hacker</b>: Solved real-time problems in 6+ Hackathons.</td>
+  </tr>
+  <tr>
+     <td align="center"><b>Google Cloud Arcade</b></td>
+     <td align="center">☁️ <b>Practitioner</b>: Mastered GenAI & Cloud services via Qwiklabs.</td>
+  </tr>
+</table>
+
+<br/>
+
+## 🎓 Education & Certifications
+<p align="center">
+  <img src="https://img.shields.io/badge/B.Tech_CSE_(IoT)-GLA_University_(2018--2022)-blue?style=for-the-badge&logo=google-scholar&logoColor=white" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Certificate-Azure_AI_Engineer-0078D4?style=flat-square" />
+  <img src="https://img.shields.io/badge/Certificate-Azure_Data_Scientist-0078D4?style=flat-square" />
+  <img src="https://img.shields.io/badge/Certificate-Databricks_GenAI-FF3621?style=flat-square" />
+  <img src="https://img.shields.io/badge/Certificate-IBM_IoT-052FAD?style=flat-square" />
+</p>
+
+<br/>
 
 ## 🤝🏻 Connect with Me
 
