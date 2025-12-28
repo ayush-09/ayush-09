@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Welcome to My GitHub Profile! 👋</h1>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F2EA&center=true&vCenter=true&width=500&lines=Data+Scientist+%26+AI+Engineer;Generative+AI+%7C+NLP+%7C+Agentic+RAG+AI;Building+Scalable+AI+Solutions;Open+Source+Leader" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F2EA&center=true&vCenter=true&width=500&lines=Data+Scientist+%26+AI+Engineer;Generative+AI+%7C+NLP+%7C+Computer+Vision;Building+Scalable+AI+Solutions;Open+Source+Leader" alt="Typing SVG" /></a>
 </div>
 
 <p align="center">
@@ -13,13 +13,13 @@
   <br>
   <img src="https://komarev.com/ghpvc/?username=ayush-09&color=00F2EA" alt="Profile Views"/>
   <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z5ODJ6Z3B6Z3Z5ODJ6Z3B6Z3Z5ODJ6Z3B6Z3Z5ODJ6Z3B6zy9kQ2d2Z3B6Z3Z5ODJ6Z3B6Z3Z5ODJ6Z3B6Z3Z5ODJ6Z3B6Z3Z5ODJ6/Queb1Z2bNq4cE/giphy.gif" alt="AI Agent" width="30">
+  <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
 </p>
 
 ## 💫 About Me
 
 <picture>
-  <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z5ODJ6Z3B6Z3Z5ODJ6Z3B6Z3Z5ODJ6Z3B6Z3Z5ODJ6Z3B6zy9kQ2d2Z3B6Z3Z5ODJ6Z3B6Z3Z5ODJ6Z3B6Z3Z5ODJ6Z3B6Z3Z5ODJ6/Queb1Z2bNq4cE/giphy.gif" width="230">
+  <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 </picture>
 
 - 🎓 Grad'22 Computer Science & Engineering (**IoT**) at `GLA University`.
