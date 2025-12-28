@@ -134,20 +134,11 @@
 </p>
 <br>
 
-<p align="center">
-  <a href="https://quine.sh?utm_source=widgets&utm_campaign=ayush-09">
-    <img src="https://stats.quine.sh/ayush-09/dependencies?theme=dark" alt="ayush-09's GitHub Dependencies" />
-  </a>
-</p>
-
-
-
 <h2 align="center">Profile Stats 🎹</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayush-09&show_icons=true&theme=synthwave" alt="ayush-09 :: Profile Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-09&langs_count=10&theme=tokyonight&layout=compact" alt="ayush-09 :: Top Langs" />
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=ayush-09&show_icons=true&theme=radical" alt="ayush-09 :: Profile Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-09&langs_count=10&theme=radical&layout=compact" alt="ayush-09 :: Top Langs" />
 </p>
 <br/>
 
