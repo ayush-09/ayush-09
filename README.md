@@ -157,7 +157,7 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayush-09&theme=highcontrast" alt="ayush-09" />
 </p>
 <p align="center">
-  <img src="https://github.com/ayush-09/ayush-09/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/ayush-09/ayush-09/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 <br/>
 
