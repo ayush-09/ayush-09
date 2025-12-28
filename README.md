@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Welcome to My GitHub Profile! 👋</h1>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F2EA&center=true&vCenter=true&width=500&lines=Data+Scientist+%26+AI+Engineer;Generative+AI+%7C+NLP+%7C+Computer+Vision;Building+Scalable+AI+Solutions;Open+Source+Leader" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F2EA&center=true&vCenter=true&width=500&lines=Data+Scientist+%26+AI+Engineer;Generative+AI+%7C+NLP+%7C+Agentic+RAG+AI;Building+Scalable+AI+Solutions;Open+Source+Leader" alt="Typing SVG" /></a>
 </div>
 
 <p align="center">
@@ -137,8 +137,10 @@
 <h2 align="center">Profile Stats 🎹</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayush-09&show_icons=true&theme=radical" alt="ayush-09 :: Profile Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-09&langs_count=10&theme=radical&layout=compact" alt="ayush-09 :: Top Langs" />
+<a href="https://github.com/ayush-09">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ayush-09&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ayush-09&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </p>
 <br/>
 
@@ -146,9 +148,6 @@
 
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayush-09&theme=highcontrast" alt="ayush-09" />
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ayush-09/ayush-09/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 <br/>
 
@@ -200,16 +199,6 @@
 </p>
 <p align="center"> <img src = "https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,10&height=2.5"/></p>
 <br />
-
-## 🏆 GitHub Profile Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ayush-09" alt="trophy" />
-</div>
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
-
-<div align="center">
 
 ### I love connecting with different people, If you want to connect Say `Hi` on my website
 
