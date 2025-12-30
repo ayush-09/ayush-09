@@ -47,7 +47,7 @@
       <b>📊 Data Scientist</b><br>
       SoftSensor.AI<br>
       Aug 2023 - Nov 2025<br>
-      Bengaluru
+      Gurugram
     </td>
     <td align="center">
       <b>💻 Junior AI Developer</b><br>
